@@ -7,7 +7,8 @@
               "name": "Vesper",
               "glass": "martini",
               "category": "Before Dinner Cocktail",
-              "ingredients": [
+              "ingredients": ["gin", "vodka", "lillet blonde"],
+              "recipe": [
                 { "unit": "cl",
                   "amount": 6,
                   "ingredient": "Gin" },
@@ -26,7 +27,8 @@
             "name": "Bacardi",
             "glass": "martini",
             "category": "Before Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["white rum", "lime juice", "grenadine"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "White rum",
@@ -46,7 +48,8 @@
           "name": "Negroni",
           "glass": "old-fashioned",
           "category": "Before Dinner Cocktail",
-          "ingredients": [
+          "ingredients": ["gin", "campari", "vermouth"],
+          "recipe": [
             { "unit": "cl",
               "amount": 3,
               "ingredient": "Gin" },
@@ -65,7 +68,8 @@
         { 
           "name": "Rose",
           "glass": "martini",
-          "ingredients": [
+          "ingredients": ["kirsch", "vermouth"],
+          "recipe": [
             { "unit": "cl",
               "amount": 2,
               "ingredient": "Kirsch" },
@@ -82,7 +86,8 @@
           "name": "Old Fashioned",
           "glass": "old-fashioned",
           "category": "Before Dinner Cocktail",
-          "ingredients": [
+          "ingredients": ["whiskey"],
+          "recipe": [
             { "unit": "cl",
               "amount": 4.5,
               "ingredient": "Whiskey",
@@ -99,7 +104,8 @@
             "name": "Tuxedo",
           "glass": "martini",
           "category": "All Day Cocktail",
-          "ingredients": [
+          "ingredients": ["gin", "dry vermouth"],
+          "recipe": [
             { "unit": "cl",
               "amount": 3,
               "ingredient": "Gin",
@@ -120,7 +126,8 @@
             "name": "Mojito",
             "glass": "collins",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["white rum", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "White rum",
@@ -140,7 +147,8 @@
             "name": "Horse's Neck",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["cognac", "ginger ale"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "Cognac" },
@@ -157,7 +165,8 @@
             "name": "Planter's Punch",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["dark rum", "orange juice", "pineapple juice", "lemon juice", "grenadine", "sugar syrup"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Dark rum" },
@@ -188,7 +197,8 @@
             "name": "Sea Breeze",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["vodka", "cranberry juice", "grapefruit juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "Vodka" },
@@ -207,7 +217,8 @@
             "name": "Pisco Sour",
             "glass": "old-fashioned",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["pisco", "lemon juice", "sugar syrup"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Pisco" },
@@ -227,7 +238,8 @@
             "name": "Long Island Iced Tea",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["tequila", "vodka", "white rum", "triple sec", "gin", "lemon juice", "gomme syrup"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 1.5,
                 "ingredient": "Tequila" },
@@ -260,7 +272,8 @@
             "name": "Clover Club",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "raspberry syrup", "lemon juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Gin" },
@@ -280,7 +293,8 @@
             "name": "Angel Face",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "apricot brandy", "calvados"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "Gin" },
@@ -298,7 +312,8 @@
             "name": "Mimosa",
             "glass": "champagne-flute",
             "category": "Sparkling Cocktail",
-            "ingredients": [
+            "ingredients": ["champagne", "orange juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 7.5,
                 "ingredient": "Champagne" },
@@ -314,7 +329,8 @@
             "name": "Whiskey Sour",
             "glass": "old-fashioned",
             "category": "Before Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["whiskey", "lemon juice", "sugar syrup"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Whiskey",
@@ -335,7 +351,8 @@
             "name": "Screwdriver",
             "glass": "highball",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "orange juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Vodka" },
@@ -351,7 +368,8 @@
             "name": "Cuba Libre",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["white rum", "cola", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "White rum" },
@@ -370,7 +388,8 @@
             "name": "Manhattan",
             "glass": "martini",
             "category": "Before Dinner cocktail",
-            "ingredients": [
+            "ingredients": ["whiskey", "vermouth"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Whiskey",
@@ -389,7 +408,8 @@
             "name": "Porto Flip",
             "glass": "martini",
             "category": "After Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["cognac", "red port", "egg yolk"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 1.5,
                 "ingredient": "Cognac" },
@@ -407,7 +427,8 @@
             "name": "Gin Fizz",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["gin", "lemon juice", "sugar syrup", "soda water"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Gin" },
@@ -430,7 +451,8 @@
             "name": "Espresso Martini",
             "glass": "martini",
             "category": "After Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "coffee liqueur"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Vodka" },
@@ -448,7 +470,8 @@
             "name": "Margarita",
             "glass": "margarita",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["tequila", "triple sec", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3.5,
                 "ingredient": "Tequila" },
@@ -467,7 +490,8 @@
             "name": "French 75",
             "glass": "champagne-tulip",
             "category": "Sparkling Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "lemon juice", "champagne"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "Gin" },
@@ -486,7 +510,8 @@
             "name": "Yellow Bird",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["white rum", "galliano", "triple sec", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "White rum" },
@@ -507,7 +532,8 @@
             "name": "Pina Colada",
             "glass": "hurricane",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["white rum", "pineapple juice", "coconut milk"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "White rum" },
@@ -526,7 +552,8 @@
             "name": "Aviation",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "cherry liqueur", "lemon juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Gin" },
@@ -545,7 +572,8 @@
             "name": "Bellini",
             "glass": "champagne-flute",
             "category": "Sparkling Cocktail",
-            "ingredients": [
+            "ingredients": ["prosecco", "peach puree"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 10,
                 "ingredient": "Prosecco" },
@@ -560,7 +588,8 @@
             "name": "Grasshopper",
             "glass": "martini",
             "category": "After Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["white créme de cacao", "green créme de menthe", "cream"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "Créme liqueur",
@@ -580,7 +609,8 @@
             "name": "Tequila Sunrise",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["tequila", "orange juice", "grenadine"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Tequila" },
@@ -600,7 +630,8 @@
             "name": "Daiquiri",
             "glass": "martini",
             "category": "Before Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["white rum", "lime juice", "simple syrup"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "White rum" },
@@ -619,7 +650,8 @@
             "name": "Rusty Nail",
             "glass": "old-fashioned",
             "category": "After Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["whiskey", "drambuie"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Whiskey",
@@ -636,7 +668,8 @@
             "name": "B52",
             "glass": "shot",
             "category": "After Dinner",
-            "ingredients": [
+            "ingredients": ["coffee liqueur", "baileys irish cream", "triple sec"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 2,
                 "ingredient": "Coffee liqueur",
@@ -657,7 +690,8 @@
             "name": "Stinger",
             "glass": "martini",
             "category": "After Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["cognac", "white créme de menthe"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Cognac" },
@@ -673,7 +707,8 @@
             "name": "Golden Dream",
             "glass": "martini",
             "category": "After Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["galliano", "triple sec", "orange juice", "cream"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 2,
                 "ingredient": "Galliano" },
@@ -693,7 +728,8 @@
           { 
             "name": "God Mother",
             "glass": "old-fashioned",
-            "ingredients": [
+            "ingredients": ["vodka", "disaronno"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3.5,
                 "ingredient": "Vodka" },
@@ -708,7 +744,8 @@
             "name": "Spritz Veneziano",
             "glass": "old-fashioned",
             "category": "Sparkling Cocktail",
-            "ingredients": [
+            "ingredients": ["prosecco", "aperol"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 6,
                 "ingredient": "Prosecco" },
@@ -725,7 +762,8 @@
             "name": "Bramble",
             "glass": "old-fashioned",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "lemon juice", "sugar syrup", "blackberry liqueur"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "Gin" },
@@ -747,7 +785,8 @@
           { 
             "name": "Alexander",
             "glass": "martini",
-            "ingredients": [
+            "ingredients": ["cognac", "brown créme de cacao", "cream"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "Cognac" },
@@ -766,7 +805,8 @@
             "name": "Lemon Drop Martini",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "triple sec", "lemon juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 2.5,
                 "ingredient": "Vodka",
@@ -786,7 +826,8 @@
             "name": "French Martini",
             "glass": "martini",
             "category": "Before Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "raspberry liqueur", "pineapple juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Vodka" },
@@ -804,7 +845,8 @@
             "name": "Black Russian",
             "glass": "old-fashioned",
             "category": "After Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "coffee liqueur"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Vodka" },
@@ -819,7 +861,8 @@
             "name": "Bloody Mary",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["vodka", "tomato juice", "lemon juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Vodka" },
@@ -842,7 +885,8 @@
             "name": "Mai-tai",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["white rum", "dark rum", "triple sec", "orgeat syrup", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "White rum" },
@@ -869,7 +913,8 @@
             "name": "Barracuda",
             "glass": "margarita",
             "category": "Sparkling Cocktail",
-            "ingredients": [
+            "ingredients": ["dark rum", "galliano", "pineapple juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Dark rum",
@@ -889,7 +934,8 @@
             "name": "Sex on the Beach",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["vodka", "peach schnapps", "cranberry juice", "orange juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "Vodka" },
@@ -911,7 +957,8 @@
             "name": "Monkey Gland",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "orange juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Gin" },
@@ -928,7 +975,8 @@
             "name": "Derby",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 6,
                 "ingredient": "Gin" },
@@ -943,7 +991,8 @@
             "name": "Sidecar",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["cognac", "triple sec", "lemon juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Cognac" },
@@ -961,7 +1010,8 @@
             "name": "Irish Coffee",
             "glass": "hot-drink",
             "category": "Hot Drink",
-            "ingredients": [
+            "ingredients": ["whiskey", "hot coffee", "cream"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "Whiskey",
@@ -981,7 +1031,8 @@
             "name": "Sazerac",
             "glass": "old-fashioned",
             "category": "After Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["cognac", "absinthe"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Cognac" },
@@ -999,7 +1050,8 @@
             "name": "Americano",
             "glass": "old-fashioned",
             "category": "Before Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["campari", "vermouth"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "Campari" },
@@ -1017,7 +1069,8 @@
             "name": "Singapore Sling",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["gin", "cherry liqueur", "triple sec", "dom bénédictine", "pineapple juice", "lime juice", "grenadine"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "Gin" },
@@ -1050,7 +1103,8 @@
           { 
             "name": "French Connection",
             "glass": "old-fashioned",
-            "ingredients": [
+            "ingredients": ["cognac", "disaronno"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3.5,
                 "ingredient": "Cognac" },
@@ -1065,7 +1119,8 @@
             "name": "Moscow Mule",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["vodka", "ginger beer", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Vodka" },
@@ -1085,7 +1140,8 @@
             "name": "John Collins",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["gin", "lemon juice", "sugar syrup", "soda water"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Gin" },
@@ -1108,7 +1164,8 @@
             "name": "Kir",
             "glass": "white-wine",
             "category": "Before Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["dry white wine", "créme de cassis"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 9,
                 "ingredient": "Dry White Wine" },
@@ -1124,7 +1181,8 @@
             "name": "Mint Julep",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["whiskey"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 6,
                 "ingredient": "Whiskey",
@@ -1141,7 +1199,8 @@
             "name": "Tommy's Margarita",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["tequila", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Tequila" },
@@ -1157,7 +1216,8 @@
             "name": "Paradise",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "apricot brandy", "orange juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3.5,
                 "ingredient": "Gin" },
@@ -1175,7 +1235,8 @@
             "name": "Dirty Martini",
             "glass": "martini",
             "category": "Before Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "vermouth", "olive juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 6,
                 "ingredient": "Vodka" },
@@ -1195,7 +1256,8 @@
             "name": "Champagne Cocktail",
             "glass": "champagne-flute",
             "category": "Sparkling Cocktail",
-            "ingredients": [
+            "ingredients": ["champagne", "cognac"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 9,
                 "ingredient": "Champagne" },
@@ -1213,7 +1275,8 @@
             "name": "Mary Pickford",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["white rum", "cherry liqueur", "pineapple juice", "grenadine"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 6,
                 "ingredient": "White rum" },
@@ -1236,7 +1299,8 @@
             "name": "Hemingway Special",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["white rum", "grapefruit juice", "cherry liqueur", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 6,
                 "ingredient": "White rum" },
@@ -1258,7 +1322,8 @@
             "name": "Dark 'n' Stormy",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["dark rum", "ginger beer"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 6,
                 "ingredient": "Dark rum" },
@@ -1274,7 +1339,8 @@
             "name": "Ramos Fizz",
             "glass": "highball",
             "category": "Longdrink",
-            "ingredients": [
+            "ingredients": ["gin", "lime juice", "lemon juice", "sugar syrup", "cream"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Gin" },
@@ -1303,7 +1369,8 @@
             "name": "Russian Spring Punch",
             "glass": "highball",
             "category": "Sparkling Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "lemon juice", "créme de cassis", "sugar syrup"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 2.5,
                 "ingredient": "Vodka" },
@@ -1326,7 +1393,8 @@
           { 
             "name": "God Father",
             "glass": "old-fashioned",
-            "ingredients": [
+            "ingredients": ["whiskey", "disaronno"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3.5,
                 "ingredient": "Whiskey",
@@ -1342,7 +1410,8 @@
             "name": "Cosmopolitan",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "triple sec", "lime juice", "cranberry juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "Vodka",
@@ -1366,7 +1435,8 @@
             "name": "Dry Martini",
             "glass": "martini",
             "category": "Before Dinner Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "vermouth"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 6,
                 "ingredient": "Gin" },
@@ -1382,7 +1452,8 @@
             "name": "Between the Sheets",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["white rum", "cognac", "triple sec", "lemon juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "White rum" },
@@ -1403,7 +1474,8 @@
             "name": "Casino",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "cherry liqueur", "orange bitters", "lemon juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "Gin",
@@ -1427,7 +1499,8 @@
             "name": "Caipirinha",
             "glass": "old-fashioned",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["cachaca"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Cachaca" },
@@ -1440,7 +1513,8 @@
           { 
             "name": "Vampiro",
             "glass": "highball",
-            "ingredients": [
+            "ingredients": ["tequila", "tomato juice", "orange juice", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 5,
                 "ingredient": "Tequila",
@@ -1468,7 +1542,8 @@
             "name": "Kamikaze",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "triple sec", "lime juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 3,
                 "ingredient": "Vodka" },
@@ -1486,7 +1561,8 @@
             "name": "White Lady",
             "glass": "martini",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["gin", "triple sec", "lemon juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4,
                 "ingredient": "Gin" },
@@ -1504,7 +1580,8 @@
             "name": "Harvey Wallbanger",
             "glass": "highball",
             "category": "All Day Cocktail",
-            "ingredients": [
+            "ingredients": ["vodka", "galliano", "orange juice"],
+            "recipe": [
               { "unit": "cl",
                 "amount": 4.5,
                 "ingredient": "Vodka" },
